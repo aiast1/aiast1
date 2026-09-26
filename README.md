@@ -1,4 +1,4 @@
-![A process plant built by AcaysiaGEM: vessels, columns, routed piping and pipe racks](https://acaysia.com/assets/images/engines/gem-plant-metal.jpg)
+![A process plant built by AcaysiaGEM: vessels, columns, routed piping and pipe racks](https://acaysia.com/media/engine-gem/gem-plant-metal-1280.webp)
 
 <sub>Not a drawing of a plant. This is the geometry our solver actually runs in, rendered straight from the model. Twelve units, 678,374 triangles, about 6 seconds.</sub>
 
